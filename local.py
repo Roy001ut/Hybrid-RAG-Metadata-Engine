@@ -12,7 +12,7 @@ import gradio as gr
 
 # ================= 1. 配置区 =================
 # 在这里填入你的 Gemini API Key
-os.environ["GOOGLE_API_KEY"] = "AIzaSyAYzlGTiQl0uqN_mvmxfTK86WO7vHk8v0Q"
+os.environ["GOOGLE_API_KEY"] = 
 
 
 # ================= 2. 数据处理与语义分块 =================
